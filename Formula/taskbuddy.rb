@@ -1,9 +1,9 @@
 class Taskbuddy < Formula
   desc "TaskBuddy CLI for managing tasks from Terminal"
   homepage "https://github.com/kandelvijaya/taskbuddy-cli-releases"
-  url "https://github.com/kandelvijaya/taskbuddy-cli-releases/releases/download/v4.0.1/taskbuddy-4.0.1-macos-universal.tar.gz"
-  sha256 "aed262fb1790426ccbcfc5f26ebc60b5ef7bc743f8ea9b826f160e5f1a9763e4"
-  version "4.0.1"
+  url "https://github.com/kandelvijaya/taskbuddy-cli-releases/releases/download/v4.0.2/taskbuddy-4.0.2-macos-universal.tar.gz"
+  sha256 "49bad66dcb27165ed7d18ed4c541a1b31f17e7363665a66e9ddbb6403ae55dcf"
+  version "4.0.2"
   depends_on macos: :sonoma
 
   def install
